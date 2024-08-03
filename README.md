@@ -1,29 +1,28 @@
-# Tourism-Management-System
+# Ocean Tourism Database Management System
 
-This is a Tourism Management System Project build by using html, css, javascript, php, MySQL as mini project in the 5th semister of engineering.
-This website has cool SignUp/SignIn page where you can enter your details and SignUp.
-It stores your data in the database using php and MySQL queries.
-This website has a cool front page where you can see many destinations, you can also get the data about each place.
-There is also a galery section where you can see the beautifull pictures of all the destinations.
-This website also has the admin login admin can get the information of the customers, travel agents, also can add new places, hotels.
-There is cool and nice booking page where you can book your tour by entering your details.
-This website also has a feedback section where you can give your feedback to the developer.
+The ocean tourism industry currently faces challenges due to inefficient manual data management and the absence of a centralized system. To address these issues, we propose developing an Ocean Tourism Database Management System (DBMS). This system will leverage Firebase for data storage and a user-friendly interface built with HTML, CSS, and JavaScript.
 
-# New Changes
+Our DBMS will serve as the backbone of an ocean exploration tourism website, providing a platform for adventurous travelers to discover and book exciting tours. By effectively managing vast amounts of tour data, the DBMS will enable advanced search functionalities, allowing users to find tours based on their preferences. Additionally, a robust booking system integrated with the DBMS will ensure seamless and secure transactions.
 
-improved performance
-login signup isssues fixed
-styling issues fixed
+Ultimately, this project aims to streamline operations, enhance customer experience, and support data-driven decision-making within the ocean tourism industry.
 
-# Use Procedure
+## Features
 
-please chanage the port number with your port number - I used 3307 as port number but for your case it may be 3306 please change that
+- User-friendly interface with HTML, CSS, and JavaScript
+- Firebase integration for data storage and management
+- Efficient booking system with form validation
+- Seamless integration between front-end and back-end
 
-please change username and password if that applicable to you
+## Tech Stack
 
-create database called "travel", don't give any other name,
-if you want different name for database then make sure that you change database ame in code also
+### Front-end
 
-database file also provided
+- HTML
+- CSS
+- JavaScript
 
-Thank You....
+### Back-end
+
+- Firebase Firestore (NoSQL database)
+
+![Mainpage](https://github.com/user-attachments/assets/84886728-1f75-4d23-8291-0e9ba84fe76c)
